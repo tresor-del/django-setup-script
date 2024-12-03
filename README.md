@@ -44,14 +44,14 @@ Avant de commencer, assurez-vous que vous avez les éléments suivants :
 
 ## Utilisation
 
-    Suivez les instruSuivez  fournies par le script pour :
+   Suivez les instruSuivez  fournies par le script pour :
 
-    - Installer Python et Django.
-    - Créer un nouveau projet Django.
-    - Effectuer des migrations initiales.
-    - Créer un superutilisateur.
-    - Ouvrir le projet das Vs Code (optionnel).
-    - Lancer le serveur de développement Django (optionnel).
+   - Installer Python et Django.
+   - Créer un nouveau projet Django.
+   - Effectuer des migrations initiales.
+   - Créer un superutilisateur.
+   - Ouvrir le projet das Vs Code (optionnel).
+   - Lancer le serveur de développement Django (optionnel).
 
 ## Fonctionnalités
 
@@ -65,17 +65,17 @@ Avant de commencer, assurez-vous que vous avez les éléments suivants :
 
 ## Contribution
 
-    Les contributions sont les bienvenues! Veuillez suivre les étapes ci-dessous pour contribuer :
+   Les contributions sont les bienvenues! Veuillez suivre les étapes ci-dessous pour contribuer :
 
-    Forkez le dépôt.
+   Forkez le dépôt.
 
-    Créez une branche pour votre fonctionnalité ou correction de bug (git checkout -b ma-nouvelle-fonctionnalité).
+   Créez une branche pour votre fonctionnalité ou correction de bug (git checkout -b ma-nouvelle-fonctionnalité).
 
-    Commitez vos modifications (git commit -m 'Ajout d'une nouvelle fonctionnalité').
+   Commitez vos modifications (git commit -m 'Ajout d'une nouvelle fonctionnalité').
 
-    Poussez vers la branche (git push origin ma-nouvelle-fonctionnalité).
+   Poussez vers la branche (git push origin ma-nouvelle-fonctionnalité).
 
-    Ouvrez une Pull Request.
+   Ouvrez une Pull Request.
 
 ## Licence
 
